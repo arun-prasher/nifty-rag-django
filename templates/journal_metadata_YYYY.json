@@ -1,0 +1,95 @@
+
+---
+
+# PHASE 2 — WEEKLY FEEDBACK LOOP
+
+Runs **once per week** (Saturday or Sunday).
+
+---
+
+## 🧠 Weekly Review
+
+### Prompt to Run
+> Generate weekly summary using the last 5 trading journals.
+
+### Objective
+- Detect repeated mistakes
+- Reinforce rules that saved money
+- Identify behavioural patterns
+
+### Rule Discipline
+- Add **at most ONE rule** per week
+- If no strong insight → add nothing
+
+More rules ≠ more edge.
+
+---
+
+# PHASE 3 — MONTHLY PRUNING LOOP
+
+Runs **once per month**.
+
+---
+
+## 📆 Monthly Review
+
+### Prompt to Run
+> Generate monthly summary and suggest what to remove or avoid.
+
+### Objective
+- Identify:
+  - Market types to trade less
+  - Rules that are redundant
+  - Behaviours that still hurt performance
+
+### Key Focus
+Removal > addition
+
+---
+
+# WHAT NOT TO DO (NON-NEGOTIABLE)
+
+❌ Do not redesign the system frequently  
+❌ Do not add new playbooks casually  
+❌ Do not tag unclear days just for completeness  
+❌ Do not ask for buy/sell signals  
+❌ Do not chase perfection  
+
+Consistency beats intensity.
+
+---
+
+# SUCCESS METRIC (ONLY ONE)
+
+Do NOT judge success by daily P&L.
+
+Judge success by:
+
+> **Did I violate any Core Rule today?**
+
+- Zero violations → successful day
+- One or more violations → review required
+
+Money follows discipline.
+
+---
+
+# OPTIONAL FUTURE UPGRADES
+
+Only consider these **after** consistent execution:
+
+1. “Should I Trade Today?” Yes/No Gate
+2. Python-based RAG automation
+3. Auto-generated weekly summaries
+4. Advanced metadata filtering
+
+Do NOT upgrade prematurely.
+
+---
+
+## FINAL REMINDER
+
+> You are no longer trying to predict the market.  
+> You are training a system to recognize **when you have an edge**.
+
+Boring execution is a feature, not a flaw.
