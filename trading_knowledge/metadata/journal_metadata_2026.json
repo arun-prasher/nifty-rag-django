@@ -1,0 +1,18 @@
+{
+  "2026-01-19": {
+    "market_type": ["weak_trend", "slow_grind"],
+    "structure": ["breakdown_attempt", "range_failure"],
+    "volatility": "low_to_medium",
+    "vwap_behavior": "below_vwap",
+    "result_day": false,
+    "confidence_level": "medium"
+  },
+  "2026-01-20": {
+    "market_type": ["breakdown", "trend_down"],
+    "structure": ["support_break", "pullback_fail"],
+    "volatility": "high",
+    "vwap_behavior": "below_vwap",
+    "result_day": false,
+    "confidence_level": "high"
+  }
+}
