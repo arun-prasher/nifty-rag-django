@@ -1,0 +1,3 @@
+AI: ChatGPT works by predicting the next word in a sequence based on the context of the words already typed. This is how large language models function. OpenAI developed GPT (Generative Pre-trained Transformer), a model that demonstrated how machines can generate coherent, human-like language at scale.
+
+chatgpt cant tell what happends an hour back as it is trained on data that is cut off at a certain point. the data it is trained on is called a training dataset. the model is trained to predict text based on this dataset. the model does not have access to real-time information or the ability to browse the internet. it can only respond based on the patterns and knowledge it has been trained on.
