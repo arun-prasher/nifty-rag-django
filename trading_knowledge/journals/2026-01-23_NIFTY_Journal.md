@@ -1,6 +1,6 @@
 # NIFTY 50 — Daily Trading Journal & Improvement Log
 
-## 📅 Date: Today
+## 📅 Date: 2026-01-23
 ## 📆 Day: Trading Day
 ## 🕘 Market Session:
 Pre-market | Intraday | Closing
