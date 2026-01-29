@@ -93,8 +93,33 @@ User input is treated only as **extra instruction**, never replacing the core st
 ## 🚀 Getting Started (Local)
 
 1. Install dependencies
-pipenv install  
-pipenv shell  
+
+From the project root:
+
+```bash
+pipenv --rm
+pipenv install --python 3.11
+pipenv shell
+```
+
+Verify Python Version
+```bash
+python --version
+```
+You must see **Python 3.11.x**
+
+Install Dependencies (Including psycopg2)
+```bash
+pipenv install
+```
+Confirm psycopg2 Is Installed
+
+```bash
+python - << 'EOF'
+import psycopg2
+print(psycopg2.__version__)
+EOF
+```
 
 2. Create .env with OpenAI key and DB credentials
 
